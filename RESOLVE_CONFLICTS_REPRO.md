@@ -1,3 +1,3 @@
 # Resolve conflicts repro
 
-Status: original line
+Status: changed on the head branch
